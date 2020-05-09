@@ -100,7 +100,7 @@ def main():
     plt.scatter(x, y)
     plt.title("Slope vs. per capita energy consumption for U.S. states")
     plt.xlabel("Slope")
-    plt.ylabel("Per capita energy consumption (millions of Btus)")
+    plt.ylabel("Per capita energy consumption (⋅ 10⁶ Btu)")
     plt.show()
 
 
